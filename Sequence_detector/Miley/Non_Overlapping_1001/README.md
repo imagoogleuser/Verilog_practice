@@ -30,6 +30,7 @@ Verilog_practice/
 
 
 State Diagram:
+
 <img width="440" height="259" alt="image" src="https://github.com/user-attachments/assets/3c35d5ba-d219-4201-976a-d03f137f69f4" />
 
 
@@ -47,9 +48,11 @@ State Table:
 |   1   |   1  |   1  |   0  |   0  |         0          |         0          |   1    |
 
 State Equations:
+
 <img width="191" height="122" alt="image" src="https://github.com/user-attachments/assets/811bea47-c6cb-4750-b1fa-fe2953bc9227" />
 
 Final Circuit DIagram:
+
 <img width="895" height="401" alt="image" src="https://github.com/user-attachments/assets/be250c24-3c04-450a-9052-39d8579fa9b6" />
 
 
