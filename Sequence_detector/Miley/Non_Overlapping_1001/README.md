@@ -1,4 +1,4 @@
-**Credit : ALL ABOUT ELECTRONICS https://www.youtube.com/watch?v=PbjntQf3sGc**
+
 ---
 
 # 1001 Sequence Detector (Mealy FSM, Non-Overlapping) using D Flip-Flops
@@ -54,7 +54,7 @@ State Equations:
 Final Circuit DIagram:
 
 <img width="895" height="401" alt="image" src="https://github.com/user-attachments/assets/be250c24-3c04-450a-9052-39d8579fa9b6" />
-
+Credit : ALL ABOUT ELECTRONICS https://www.youtube.com/watch?v=PbjntQf3sGc
 
 ## Modules
 
@@ -212,6 +212,10 @@ module tb_Sequence_detector;
 endmodule
 
 ```
+#Simulation Waveform:
+
+<img width="1646" height="531" alt="image" src="https://github.com/user-attachments/assets/c8717247-f5e1-49da-887a-58cddb1fd373" />
+
 
 ---
 
