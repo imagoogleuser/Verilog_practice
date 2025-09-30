@@ -212,7 +212,7 @@ module tb_Sequence_detector;
 endmodule
 
 ```
-#Simulation Waveform:
+## Simulation Waveform:
 
 <img width="1646" height="531" alt="image" src="https://github.com/user-attachments/assets/c8717247-f5e1-49da-887a-58cddb1fd373" />
 
