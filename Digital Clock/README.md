@@ -193,7 +193,7 @@ iverilog  hour.v mod59.v mod10.v mod6.v tb_hour.v
 
 This will print the H:M:S output to the console and generate tb_hour.vcd.
 
-# 3. (Optional) View the waveforms
+# 3.View the waveforms
 gtkwave tb_hour.vcd
 
 
